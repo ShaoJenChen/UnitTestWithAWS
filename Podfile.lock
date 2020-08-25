@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.7.3)
+  - CryptoSwift (0.9.0)
+  - GzipSwift (5.0.0)
+  - ObjectMapper (3.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - CryptoSwift (~> 0.9.0)
+  - GzipSwift (~> 5.0.0)
+  - ObjectMapper (~> 3.3.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - GzipSwift
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  CryptoSwift: bca8c5b653dcc2d9734409242a070ff53bafac86
+  GzipSwift: 5592f4d62b641e04d06443ba471f8ed76b1363e4
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+
+PODFILE CHECKSUM: e6a6e3253ee3e9c6dbd1bcf83b12fcfdd81833fc
+
+COCOAPODS: 1.9.3
